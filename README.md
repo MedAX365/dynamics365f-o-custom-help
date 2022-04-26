@@ -1,4 +1,6 @@
 
+https://community.dynamics.com/365/financeandoperations/b/newdynamicsax/posts/get-the-updated-toolkit-for-easier-deployment-of-solution-specific-help-content
+
 # Tools in the toolkit
 
 The toolkit is available at [https://github.com/microsoft/dynamics365f-o-custom-help/](https://github.com/microsoft/dynamics365f-o-custom-help/). The repo contains the following tools and the source code for the tools:
